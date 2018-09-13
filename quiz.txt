@@ -1,2 +1,20 @@
 1/Who is the Prime minister of India?/Modi/Singh/Nehru/a
 2/Who is the President of India?/me/u/none/c
+3/A jogger running at 9 kmph alongside a railway track in 240 meters ahead of the engine of a 120 meters long train running at 45 kmph in the same direction. In how much time will the train pass the jogger?/3.6 sec/18 sec/36 sec 72 sec
+4/A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:/No profit, no loss/5%/8%/10%
+5/A pupil's marks were wrongly entered as 83 instead of 63. Due to that, the average marks for the class got increased by half. The number of pupils in the class is:/10/20/40/73
+6/A milk vendor has 2 cans of milk. The first contains 25% water and the rest milk. The second contains 50% water. How much milk should he mix from each of the containers so as to get 12 litres of milk such that the ratio of water to milk is 3: 5?/4l8l/6l6l/5L7L/7L5L
+7/
+8/
+9/
+10/
+11/
+12/
+13/
+14/
+15/
+16/
+17/
+18/
+19/
+20/
